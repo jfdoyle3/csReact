@@ -3,6 +3,6 @@ class StoryBox extends React.Component {
         return( <div>Story Box</div>);
     }
 }
-ReactDON.render(
+ReactDOM.render(
     <StoryBox />,document.getElementById('story-app')
 );
