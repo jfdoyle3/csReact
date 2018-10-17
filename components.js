@@ -5,7 +5,7 @@ class StoryBox extends React.Component {
         
         return(
              <div>
-              <h3>Story Box</h3>
+              <h3>Stories App</h3>
               <p className="lead">
                  Current time: {now.toTimeString()}
               </p>
